@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "routing_new_exaple",
+    "slug": "routing_new_exaple",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
